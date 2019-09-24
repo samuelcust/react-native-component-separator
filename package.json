@@ -1,6 +1,10 @@
 {
   "name": "react-native-component-separator",
-  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelcust/react-native-component-separator.git"
+  },
+  "version": "1.0.1",
   "description": "A separator component for React Native",
   "main": "src/index.js",
   "scripts": {
@@ -12,6 +16,7 @@
   ],
   "author": "Samuel Custódio <samuelcust@outlook.com.br> (https://github.com/samuelcust)",
   "license": "MIT",
+  "homepage": "https://github.com/samuelcust/react-native-component-separator",
   "devDependencies": {
     "react": "16.1.1",
     "react-native": "0.50.3"

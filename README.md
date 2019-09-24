@@ -1,7 +1,7 @@
 # react-native-component-separator
 A separator component for React Native
 
-![left-component](./example/images/left-component.png)
+![left-component](https://raw.githubusercontent.com/samuelcust/react-native-component-separator/master/example/images/left-component.png)
 
 ## Install
 
