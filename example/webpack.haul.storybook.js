@@ -1,3 +1,3 @@
 module.exports = ({ platform }) => ({
-  entry: `./storybook/index.${platform}.js`,
-});
+  entry: `./storybook/index.${platform}.js`
+})
