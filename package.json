@@ -1,22 +1,17 @@
 {
-  "name": "react-native-library-starter",
+  "name": "react-native-component-separator",
   "version": "1.0.0",
-  "description": "Quick way to start developing React Native UI component.",
+  "description": "A separator component for React Native",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react-native",
-    "starter",
-    "component",
-    "library",
-    "module starter",
-    "package starter",
-    "library starter"
+    "component"
   ],
-  "author": "Pavlo Kochubei <pavlo.kochubei@hotmail.com> (https://pavlokochubei.com/)",
-  "license": "ISC",
+  "author": "Samuel Custódio <samuelcust@outlook.com.br> (https://github.com/samuelcust)",
+  "license": "MIT",
   "devDependencies": {
     "react": "16.1.1",
     "react-native": "0.50.3"

@@ -1,14 +1,5 @@
-import React from 'react'
-import { View, Text } from 'react-native'
+import Left from './components/Left'
 
-export default class ReactNativeLibraryStarter extends React.Component {
-  render () {
-    return (
-      <View>
-        <Text>
-          This is library starter. Enjoy.
-        </Text>
-      </View>
-    )
-  }
+export {
+  Left,
 }
